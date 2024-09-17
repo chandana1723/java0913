@@ -1,0 +1,15 @@
+package csa0913;
+
+public class copystring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String original = "Hello";
+	    String copied = new String(original);
+
+		System.out.println("Original string: " + original);
+		System.out.println("Copied string: " + copied);
+
+	}
+
+}
